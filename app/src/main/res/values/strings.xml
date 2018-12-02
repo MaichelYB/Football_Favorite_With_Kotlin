@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Submission2</string>
+    <string name="separator">-</string>
+    <string name="versus">VS</string>
+    <string name="totalShoot">Total Shoot</string>
+    <string name="goalShooter">Goal Shooter</string>
+    <string name="yellowCard">Yellow Card</string>
+    <string name="redCard">Red Card</string>
+    <string name="goalKeeper">Goal Keeper</string>
+    <string name="def">Defense</string>
+    <string name="mid">Mid Line</string>
+    <string name="atk">Attacker</string>
+    <string name="subtitutes">Subtitutes</string>
+    <string name="formation">Formation</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="favorites">Favorites</string>
+    <string name="teams">Team</string>
+    <string name="match">Matches</string>
+
+    <string name="english">4328</string>
+    <string name="italian">4332</string>
+    <string name="brazilian">4351</string>
+    <string name="scottish">4395</string>
+    <string name="french">4401</string>
+
+    <array name="league">
+        <item>English Premier League</item>
+        <item>English League Championship</item>
+        <item>German Bundesliga</item>
+        <item>Italian Serie A</item>
+        <item>French Ligue 1</item>
+        <item>Spanish La Liga</item>
+    </array>
+
+    <array name="match">
+        <item>English Premiere League</item>
+        <item>Italian Serie</item>
+        <item>Brazilian Brasileirao</item>
+        <item>Scottish Championship</item>
+        <item>French Ligue</item>
+    </array>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>

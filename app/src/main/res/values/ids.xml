@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="team_name" type = "id"/>
+    <item name="team_val" type = "id"/>
+    <item name="formation_home" type = "id"/>
+    <item name="formation_away" type = "id"/>
+    <item name="team_away_score" type = "id"/>
+    <item name="team_home_score" type = "id"/>
+    <item name="team_home_name" type = "id"/>
+    <item name="team_away_name" type = "id"/>
+    <item name="date_match" type = "id"/>
+    <item name="time_match" type = "id"/>
+    <item name="team_home_image" type="id"/>
+    <item name="team_home_shoot" type="id"/>
+    <item name="team_home_goal_shooter" type="id"/>
+    <item name="team_home_yellow" type="id"/>
+    <item name="team_home_red" type="id"/>
+    <item name="team_home_keeper" type = "id"/>
+    <item name="team_home_back" type = "id"/>
+    <item name="team_home_mid" type = "id"/>
+    <item name="team_home_front" type = "id"/>
+    <item name="team_home_subtitute" type = "id"/>
+    <item name="team_away_image" type="id"/>
+    <item name="team_away_goal_shooter" type="id"/>
+    <item name="team_away_yellow" type="id"/>
+    <item name="team_away_red" type="id"/>
+    <item name="team_away_shoot" type = "id"/>
+    <item name="team_away_keeper" type = "id"/>
+    <item name="team_away_back" type = "id"/>
+    <item name="team_away_mid" type = "id"/>
+    <item name="team_away_front" type = "id"/>
+    <item name="team_away_subtitute" type = "id"/>
+    <item name="separator" type="id"/>
+    <item name="linear_matches" type="id"/>
+    <item name="list_last_match" type="id"/>
+    <item name="list_next_match" type="id"/>
+    <item name="list_match_favorite" type="id"/>
+    <item name="team_badge" type="id"/>
+    <item name="spinner" type="id"/>
+    <item name="list_team" type="id"/>
+    <item name="matches" type="id"/>
+    <item name="teamsList" type="id"/>
+    <item name="favoriteList" type="id"/>
+    <item name="last_match" type="id"/>
+    <item name="first" type="id"/>
+    <item name="player_image" type="id"/>
+    <item name="player_name" type="id"/>
+    <item name="player_pos" type="id"/>
+    <item name="list_teams_favorite" type="id"/>
+    <item name="edit_text" type="id"/>
+</resources>
